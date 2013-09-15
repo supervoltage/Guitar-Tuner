@@ -1,0 +1,1 @@
+g++ -o test main.cpp noteOrder.cpp compareinput.cpp octave.cpp translate.cpp compareinput.h noteOrder.h octave.h translate.h sinegen.cpp sinegen.h -lsfml-audio -lsfml-system
