@@ -2,3 +2,7 @@ This is my (supervoltage) guitar tuner program. It uses SFML to generate
 the sine wave.
 
 Lots of thanks to Naelstrof for helping me out!
+
+"guiner" in the master branch is the Linux executable. The source code is there
+for documentation purposes. I should add some comments sometime, to not make it
+seem too daunting. It was daunting for me anyway.
