@@ -12,6 +12,6 @@ void noteOrder()
 	
 	for (int i = 0; i < arraySize; i++)
 	{
-		cout << anArray[i] << "\t";
+		cout << anArray[i] << "   ";
 	}
 }
